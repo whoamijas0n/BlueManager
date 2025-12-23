@@ -27,7 +27,7 @@ cd BlueManager
 # Dar permisos de ejecución a los scripts
 chmod +x bluemana.sh scripts/*.sh
 ```
-[!IMPORTANT] Asegúrate de que el servicio de bluetooth esté corriendo antes de iniciar: sudo systemctl start bluetooth
+Asegúrate de que el servicio de bluetooth esté corriendo antes de iniciar: sudo systemctl start bluetooth
 ## Uso
 Para iniciar la herramienta, simplemente ejecuta el script principal desde la raíz del proyecto:
 ```bash
