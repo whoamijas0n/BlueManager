@@ -2,7 +2,7 @@
 BlueManager es una interfaz simplificada por consola (TUI) escrita en Bash para gestionar dispositivos Bluetooth en sistemas Linux. Utiliza bluetoothctl para realizar tareas como escaneo, emparejamiento y conexión de forma rápida y visual.
 
 <p align="center">
-  <img src="img/menu.jpeg" alt="Imagen de el menu de BlueManager" width="850">
+  <img src="img/menu.jpg" alt="Imagen de el menu de BlueManager" width="850">
 </p>
 
 ## Requisitos e Instalación
