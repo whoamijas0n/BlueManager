@@ -1,7 +1,8 @@
 echo ""
 echo -e "\033[32m[-] Lista de dispositivos emparejados\033[0m"
-echo""
+echo ""
 bluetoothctl power on
+bluetoothctl agent on
 echo ""
 bluetoothctl devices
 echo ""

@@ -2,7 +2,7 @@ echo ""
 echo -e "\033[32m[-] Lista de dispositivos disponibles\033[0m"
 echo""
 bluetoothctl power on
-agent on
+bluetoothctl agent on
 echo ""
 bluetoothctl --timeout 10 scan on
 echo ""
